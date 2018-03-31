@@ -22,10 +22,21 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches can be helpful in situations where you want to make an alternative 
+	of the version to be used only in specific situations. When you want both 
+	the previous version and the new one, making branches is helpful.
+	Moving to a different piece of work. Branches help you keep your history 
+	organized particularly when you show your work to public.s
+
 How do the diagrams help you visualize the branch structure?
+
+	Diagrams are very helpful in visualising. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	Merging two branches together creates a new commit which has the changes
+	of both the branches in it. The final commit has two or more parents now.
+	
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
